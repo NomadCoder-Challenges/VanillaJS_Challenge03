@@ -10,13 +10,14 @@
 
 ### Demo
 - User Range Input: 5
-![CF0F3C2A-D9CC-4D43-B98C-701B7F015A3C_1_102_o](https://user-images.githubusercontent.com/39400030/154834904-334041ef-f2e2-4786-8ab8-f658b68e0232.jpeg)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/39400030/156792284-b073dd9b-833e-44ea-afa8-12df85de40a5.gif)
 
 - User Range Input: 10
-![0B5561C6-7530-4A15-829B-22F4EDBEF819_1_102_o](https://user-images.githubusercontent.com/39400030/154834914-2d2142f6-802d-4d60-8925-f1b75c589725.jpeg)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/39400030/156792693-5acc5e19-ba7c-4bc0-9aea-6f0d7ea1d32f.gif)
 
 - User Range Input: -3
-![54C2A6C4-CDB5-4A45-AA2F-1A519627C471_1_102_o](https://user-images.githubusercontent.com/39400030/154834908-116b9c11-e3d1-43f5-aab2-7583142c333a.jpeg)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/39400030/156792803-cf745aec-287f-46e8-af83-a87697dce047.gif)
+
 
 
 ---
